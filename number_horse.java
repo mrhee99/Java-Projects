@@ -5,6 +5,7 @@ public class number_horse {
         while (x < 10){
             String h = x + "horse";  
             x = x+1;
+            // from 0 to 9
             System.out.println (h);
         }
             
