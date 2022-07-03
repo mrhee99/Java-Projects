@@ -5,6 +5,7 @@ public class blah {
     while (bottles > 0) {
         System.out.println(bottles + " bottles of beer on the wall.");
         // after every iteration, the number of bottle will decrease by 1
-        bottles = bottles - 1;}
+        bottles = bottles - 1;
+        }
     }
 }
